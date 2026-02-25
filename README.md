@@ -1,2 +1,2 @@
 # solar
-Use ML to extend Linky's data goes from 3 to 12 months using Open data Enedis.
+A Machine Learning–based approach to extend 3 months of Linky smart meter data to a 12-month load profile using Enedis open datasets.
