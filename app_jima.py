@@ -7,6 +7,7 @@ from shapely.geometry import Polygon, box
 import pyproj
 from shapely.ops import transform
 import numpy as np
+from shapely.affinity import rotate, translate
 
 # Configuration de la page
 st.set_page_config(layout="wide")
