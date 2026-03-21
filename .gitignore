@@ -5,6 +5,8 @@ __pycache__/
 
 notrelec_knn(1)
 notrelec_knn(1).py
+test_mcp_datagouv.py
+test_mcp_datagouv
 # C extensions
 *.so
 
